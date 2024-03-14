@@ -1,3 +1,7 @@
+## [0.3.1+1]
+
+* Added export `intl/date_symbol_data_local.dart` in `innim_l10n.dart`
+
 ## [0.3.1]
 
 * Update `intl` 0.18.1

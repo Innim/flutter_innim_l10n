@@ -1,6 +1,6 @@
 name: innim_l10n
 description: Localizations dependency for Innim Team projects.
-version: 0.3.1
+version: 0.3.1+1
 homepage: https://github.com/innim/
 repository: https://github.com/Innim/flutter_innim_l10n
 issue_tracker: https://github.com/Innim/flutter_innim_l10n/issues
