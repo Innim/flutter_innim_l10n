@@ -1,3 +1,9 @@
+## [0.3.2]
+
+* Flutter 3.22.0.
+* Update `intl` 0.19.
+* Update `multiple_localization` 0.5.0.
+
 ## [0.3.1+1]
 
 * Added export `intl/date_symbol_data_local.dart` in `innim_l10n.dart`
