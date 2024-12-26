@@ -74,4 +74,6 @@ build/
 !**/ios/**/default.perspectivev3
 
 # FVM SDK
-.fvm/flutter_sdk
+
+# FVM Version Cache
+.fvm/
