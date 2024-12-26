@@ -73,7 +73,8 @@ build/
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 
-# FVM SDK
-
 # FVM Version Cache
 .fvm/
+
+# Pubspec for library
+pubspec.lock
