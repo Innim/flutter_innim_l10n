@@ -1,3 +1,9 @@
+## [0.3.3]
+
+* Flutter 3.32.0.
+* Update `intl` 0.20.
+* Update `multiple_localization` 0.6.0.
+
 ## [0.3.2]
 
 * Flutter 3.22.0.
